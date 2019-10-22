@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		0314E39D1B661A460092D183 /* CameraFocusSquare.m in Sources */ = {isa = PBXBuildFile; fileRef = 0314E39C1B661A460092D183 /* CameraFocusSquare.m */; };
 		2647D6712256BBD5007D2F91 /* FaceDetectorManagerMlkit.m in Sources */ = {isa = PBXBuildFile; fileRef = 2647D6702256BBD5007D2F91 /* FaceDetectorManagerMlkit.m */; };
@@ -156,7 +155,7 @@
 		410701251ACB719800C6AA39 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0620;
+				LastUpgradeCheck = 620;
 				TargetAttributes = {
 					4107012E1ACB723B00C6AA39 = {
 						CreatedOnToolsVersion = 6.2;

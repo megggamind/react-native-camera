@@ -6,8 +6,9 @@ import android.graphics.BitmapFactory;
 import android.graphics.Matrix;
 import android.net.Uri;
 import android.os.AsyncTask;
-import android.support.media.ExifInterface;
 import android.util.Base64;
+
+import androidx.exifinterface.media.ExifInterface;
 
 import org.reactnative.camera.RNCameraViewHelper;
 import org.reactnative.camera.utils.RNFileUtils;

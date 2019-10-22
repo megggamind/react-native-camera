@@ -6,8 +6,10 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.media.CamcorderProfile;
 import android.os.Build;
-import android.support.media.ExifInterface;
 import android.view.ViewGroup;
+
+import androidx.exifinterface.media.ExifInterface;
+
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.ReadableMapKeySetIterator;
